@@ -28,4 +28,4 @@ npm run dev
 # 또는 pnpm dev
 ```
 
-### 서버가 켜지면 터미널에 뜨는 http://localhost:5173 주소로 접속
+### 서버가 켜지면 터미널에 뜨는 http://localhost:1234 같은 주소로 접속
